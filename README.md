@@ -1,6 +1,6 @@
 ## Qtbrowser
 
-![Qtbrowser-demo.png](/resouces/Qtbrowser-demo.png)
+![Qtbrowser-demo.png](/resources/Qtbrowser-demo.png)
 
 ### Description
 a browser written in Python based on PyQt5
